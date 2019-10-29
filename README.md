@@ -10,4 +10,4 @@ Partial Codes for the labs of DD2437 (Autumn 2019) at KTH, with the collaboratio
 - Lab 3: includes the codes for the capacity and sparsity parts in Hopfield nets
 
 
-- Lab 4: includes everything
+- Lab 4: includes everything (rbm.py, run.py, dbn.py and utils.py)
